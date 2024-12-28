@@ -1,0 +1,14 @@
+.dndflow {
+  display: flex;
+  height: 100vh;
+}
+
+.react-flow {
+  flex-grow: 1;
+}
+
+aside {
+  width: 200px;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
